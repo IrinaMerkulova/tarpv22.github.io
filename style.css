@@ -1,47 +1,53 @@
-     body {
-            background-color: rgb(255, 255, 233);
-            color: rgb(14, 28, 48);
-            font-family: sans-serif georgia;
-        }
+body {
+    background-color: rgb(255, 255, 233);
+    color: rgb(14, 28, 48);
+    font-family: sans-serif georgia;
+}
 
-        a {
-            color: rgb(14, 28, 48);
-            text-decoration: none;
-        }
+a {
+    color: rgb(14, 28, 48);
+    text-decoration: none;
+}
 
-        .li1 {
-            list-style-type: none;
-        }
-
-
-        .container {
-
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
+.li1 {
+    list-style-type: none;
+}
 
 
+.container {
 
-        }
-        #h2Dayz {
-
-            color: red;
-
-
-            font-family: "DejaVu Sans Light";
-
-            font-weight: bold;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
 
 
-        }
+}
 
-        #dayz {
-            background-color: lightgray;
-        }
+#h2Dayz {
 
-        #p1Oleksandr {
-            font-family: ;
-        }
+    color: red;
+
+
+    font-family: "DejaVu Sans Light";
+
+    font-weight: bold;
+
+
+}
+
+#dayz {
+    background-color: lightgray;
+}
+
+/*Yekasov start*/
+#yekasovSection {
+    background-color: maroon;
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+}
+/*Yekasov end*/
+
 
 
 
