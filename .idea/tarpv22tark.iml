@@ -4,8 +4,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
     <content url="file://$MODULE_DIR$">
+<<<<<<< HEAD
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
       <excludeFolder url="file://$MODULE_DIR$/temp" />
+=======
+      <excludeFolder url="file://$MODULE_DIR$/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+>>>>>>> 0722ae7d63ec4b0c1da16d4ce941c277f49e3adf
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
     </content>
 =======
