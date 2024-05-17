@@ -11,8 +11,8 @@
 #arma3 ul li {
     margin: 5px 0;
 }
-#arma3 .titleScreen img, #arma3 .story img, #arma3 .gameplay img {
-    width: 50%;
+#arma3 .titleScreen img, #arma3 .lugu img, #arma3 .gameplay img {
+    width: 20%;
     height: auto;
 }
 #arma3 .links ul {
@@ -28,6 +28,6 @@
 #arma3 .links ul li a:hover {
     text-decoration: underline;
 }
-#arma3 .review p, #arma3 .story p, #arma3 .gameplay p, #arma3 .sisututvustus p {
+#arma3 .review p, #arma3 .lugu p, #arma3 .gameplay p, #arma3 .sisututvustus p {
     text-align: justify;
 }
