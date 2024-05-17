@@ -13,32 +13,6 @@ a {
     list-style-type: none;
 }
 
-
-.container {
-
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-
-
-}
-
-#h2Dayz {
-
-    color: red;
-
-
-    font-family: "DejaVu Sans Light";
-
-    font-weight: bold;
-
-
-}
-
-#dayz {
-    background-color: lightgray;
-}
-
 /*Yekasov start*/
 #yekasovSection {
     background-color: maroon;
