@@ -58,36 +58,45 @@ section img {
 }
 
 #ajalugu {
-    background-color: rgb(255, 240, 245);
-    border-left: 5px solid rgb(119, 34, 85);
+    background-color: #fee9d7;
+    border-left: 5px solid #f7b679;
 }
 
 #mangu_mangimine {
-    background-color: rgb(240, 255, 240);
-    border-left: 5px solid rgb(34, 119, 85);
+    background-color: #ecfffb;
+    border-left: 5px solid #1e6262;
 }
 
-#lingid {
-    background-color: rgb(255, 248, 220);
-    border-left: 5px solid rgb(85, 119, 34);
+#lingiddd {
+    background-color: #e8ffe8;
+    border-left: 5px solid #78b0a0;
 }
 
-#lingid ul {
+#lingiddd ul {
     list-style: none;
     padding: 0;
 }
 
-#lingid li {
+#lingiddd li {
     margin: 10px 0;
 }
 
-#lingid a {
+#lingiddd a {
     text-decoration: none;
     color: rgb(34, 85, 119);
 }
 
-#lingid a:hover {
+#lingiddd a:hover {
     text-decoration: underline;
+}
+#arvu{
+    background-color: #fff591;
+    border-left: 5px solid #f3cf7a;
+}
+#viideo{
+    background-color: #cabbe9;
+    border-left: 5px solid #ba53de;
+
 }
 
 #darja footer {
