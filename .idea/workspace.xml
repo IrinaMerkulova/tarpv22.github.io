@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dd6fb7f-c57e-43e6-b119-1bf9424769b2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bohatyrov.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MaxTsStyle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STALCRAFT.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TQ.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TQ_Gameplay.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TQ_Greece.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artur.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dayz-gameplay.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dayz-story.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dayz-title-screen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dota2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotalogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ident.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ident1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ident2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ident3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loredota.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mystyle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/veronika.css" beforeDir="false" />
-    </list>
+    <list default="true" id="3dd6fb7f-c57e-43e6-b119-1bf9424769b2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715924635408</updated>
       <workItem from="1715924636787" duration="4883000" />
-      <workItem from="1715931318357" duration="1019000" />
+      <workItem from="1715931318357" duration="1433000" />
     </task>
     <servers />
   </component>
