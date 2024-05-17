@@ -11,8 +11,8 @@
 #arma3 ul li {
     margin: 5px 0;
 }
-#arma3 .title-screen img, #arma3 .story img, #arma3 .gameplay img {
-    width: 100%;
+#arma3 .titleScreen img, #arma3 .story img, #arma3 .gameplay img {
+    width: 50%;
     height: auto;
 }
 #arma3 .links ul {
