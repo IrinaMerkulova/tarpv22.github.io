@@ -1,0 +1,18 @@
+body {
+    background-color: pink;
+    color: rgb(14, 28, 48);
+    font-family: sans-serif georgia;
+}
+
+a {
+    color: yellow;
+
+
+}
+
+li {
+    list-style-type: none;
+}
+img{
+    padding: 10px;
+}
