@@ -12,3 +12,8 @@
         li {
             list-style-type: none;
         }
+
+        #alguskohtmängus {
+            width: 600px;
+            height: 300px;
+        }
