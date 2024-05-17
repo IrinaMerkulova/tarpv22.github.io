@@ -1,0 +1,49 @@
+
+    /* Дополнительные стили aaaaa*/
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+
+h1, h2 {
+    color: DarkSlateGray;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Arial Black', sans-serif;
+}
+
+p, ul {
+    color: DimGray;
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+footer {
+    background-color: DimGray;
+    color: White;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 50%;
+}
+
+#content {
+    padding: 20px;
+}
+
+#content {
+    background-color: White;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+}
