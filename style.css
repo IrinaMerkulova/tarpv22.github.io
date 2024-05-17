@@ -1,23 +1,93 @@
-      body {
-            background-color: rgb(255, 255, 233);
-            color: rgb(14, 28, 48);
-            font-family: sans-serif georgia;
-        }
+body {
+    background-color: #fff9e9;
+    color: #0e1c30;
+    font-family: Georgia, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
 
-        a {
-            color: rgb(14, 28, 48);
-            text-decoration: none;
-        }
+a {
+    color: #0e1c30;
+    text-decoration: none;
+}
 
-        li {
-            list-style-type: none;
-        }
+a:hover {
+    text-decoration: underline;
+}
 
-        #alguskohtmängus {
-            width: 600px;
-            height: 300px;
-        }
+h1, h2 {
+    text-align: center;
+}
 
-        #mängust {
-            border-style: solid;
-        }
+h1 {
+    margin-top: 20px;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    background-color: #fdfdfd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#game-details .game-section {
+    text-align: center;
+}
+
+#game-title {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#game-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
+
+#game-details ul {
+    list-style: none;
+    padding: 0;
+}
+
+#game-details ul li {
+    margin: 5px 0;
+}
+
+.story-image, .gameplay-image {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f1f1f1;
+    margin-top: 20px;
+}
+
+footer p {
+    margin: 5px 0;
+}
+
+#gamegame {
+    text-align: center;
+}
+
+#alguskohtmängus {
+    width: 600px;
+    height: 300px;
+    display: block;
+    margin: 10px auto;
+}
+
+#gameplayest, #pealugudest {
+    text-align: center;
+}
