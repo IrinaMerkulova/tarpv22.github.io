@@ -1,13 +1,13 @@
 body {
-    background-color: rgb(255, 255, 233);
-    color: rgb(14, 28, 48);
+    background-color: #ede7cf;
+    color: #10316b;
     font-family: 'Georgia', sans-serif;
     margin: 0;
     padding: 0;
 }
 
 h1, h2 {
-    color: rgb(34, 85, 119);
+    color: #07617d;
     text-align: center;
 }
 
@@ -21,7 +21,7 @@ h2 {
 }
 
 a {
-    color: rgb(14, 28, 48);
+    color: #10316b;
     text-decoration: none;
 }
 
