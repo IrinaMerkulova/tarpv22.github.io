@@ -1,14 +1,33 @@
-      body {
-            background-color: rgb(255, 255, 233);
-            color: rgb(14, 28, 48);
-            font-family: sans-serif georgia;
-        }
-
-        a {
-            color: rgb(14, 28, 48);
-            text-decoration: none;
-        }
-
-        li {
-            list-style-type: none;
-        }
+#arma3 {
+    font-family: Arial, sans-serif;
+}
+#arma3 h1, #arma3 h2 {
+    color: #2c3e50;
+}
+#arma3 ul {
+    list-style-type: none;
+    padding: 0;
+}
+#arma3 ul li {
+    margin: 5px 0;
+}
+#arma3 .title-screen img, #arma3 .story img, #arma3 .gameplay img {
+    width: 100%;
+    height: auto;
+}
+#arma3 .links ul {
+    padding-left: 20px;
+}
+#arma3 .links ul li {
+    margin: 5px 0;
+}
+#arma3 .links ul li a {
+    color: #3498db;
+    text-decoration: none;
+}
+#arma3 .links ul li a:hover {
+    text-decoration: underline;
+}
+#arma3 .review p, #arma3 .story p, #arma3 .gameplay p, #arma3 .sisututvustus p {
+    text-align: justify;
+}
