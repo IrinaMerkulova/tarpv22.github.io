@@ -1,13 +1,14 @@
-      body {
-            background-color: rgb(255, 255, 233);
-            color: rgb(14, 28, 48);
-            font-family: sans-serif georgia;
-        }
+body {
+    background-color: rgb(255, 255, 233);
+    color: rgb(14, 28, 48);
+    font-family: 'Georgia', sans-serif;
+}
 
-        a {
-            color: rgb(14, 28, 48);
-            text-decoration: none;
-        }
+a {
+    color: rgb(14, 28, 48);
+    text-decoration: none;
+}
+
 
         li {
             list-style-type: none;
@@ -40,3 +41,144 @@
             margin-right: auto;
         }
       /* Veronika Milovzorova*/
+
+li {
+    list-style-type: none;
+}
+
+#dayz {
+    background-color: #f0f0f0;
+    border: 2px solid #cccccc;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+#h2Dayz {
+    color: #333399;
+}
+
+#h2Dayz:hover {
+    color: #6666ff;
+}
+
+#p1Oleksandr {
+    color: #007acc;
+}
+
+#p1Oleksandr:hover {
+    color: #005f99;
+}
+
+#pRelease {
+    color: #009900;
+}
+
+#pRelease:hover {
+    color: #006600;
+}
+
+#pIntro {
+    color: #cc0000;
+}
+
+#pIntro:hover {
+    color: #990000;
+}
+
+#imgTitleScreen {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px 0;
+}
+
+#h3Story {
+    color: #993333;
+}
+
+#h3Story:hover {
+    color: #cc6666;
+}
+
+#pStory {
+    color: #663399;
+}
+
+#pStory:hover {
+    color: #9966cc;
+}
+
+#imgStory {
+    display: block;
+    margin: 10px 0;
+}
+
+#h3Gameplay {
+    color: #336633;
+}
+
+#h3Gameplay:hover {
+    color: #66cc66;
+}
+
+#pGameplay {
+    color: #996633;
+}
+
+#pGameplay:hover {
+    color: #cc9966;
+}
+
+#imgGameplay {
+    display: block;
+    margin: 10px 0;
+}
+
+#h3Links {
+    color: #333366;
+}
+
+#h3Links:hover {
+    color: #6666cc;
+}
+
+#ulLinks li {
+    margin: 5px 0;
+}
+
+#aOfficial, #aWikipedia {
+    color: #1a0dab;
+}
+
+#aOfficial:hover, #aWikipedia:hover {
+    color: #ff6347;
+    text-decoration: underline;
+}
+
+#h3Review {
+    color: #660066;
+}
+
+#h3Review:hover {
+    color: #cc66cc;
+}
+
+#pReview {
+    color: #333333;
+}
+
+#pReview:hover {
+    color: #666666;
+}
+
+#iframeVideo {
+    display: block;
+    margin: 20px 0;
+    border: 3px solid #999999;
+}
+
+#iframeVideo:hover {
+    border: 3px solid #333399;
+}
+
