@@ -42,6 +42,10 @@ section {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+#miljukova{
+    background-color: #f5f1da;
+}
+
 section img {
     display: block;
     margin: 10px auto;
@@ -99,14 +103,3 @@ section img {
 
 }
 
-#darja footer {
-    text-align: center;
-    padding: 20px;
-    background-color: rgb(34, 85, 119);
-    color: #fff;
-    border-top: 5px solid rgb(14, 28, 48);
-}
-
-#darja footer p {
-    margin: 0;
-}
