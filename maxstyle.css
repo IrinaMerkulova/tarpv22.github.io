@@ -21,15 +21,7 @@ p, ul {
     margin-bottom: 15px;
 }
 
-footer {
-    background-color: DimGray;
-    color: White;
-    text-align: center;
-    padding: 10px 0;
-    position: fixed;
-    bottom: 0;
-    width: 50%;
-}
+
 
 #content {
     padding: 20px;
