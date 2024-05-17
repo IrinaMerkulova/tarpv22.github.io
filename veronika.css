@@ -17,7 +17,8 @@
 }
 
 #identityv img {
-    max-width: 100%;
+    border: 3px solid purple;
+    max-width: 30%;
     height: auto;
     display: block;
     margin-left: auto;
@@ -25,10 +26,20 @@
 }
 
 .contaner {
-      max-width: 100%;
+
+      max-width: 90%;
       margin: 0 auto;
       padding: 20px;
-      border: 1px solid #ccc;
+      border: 1px solid purple;
       border-radius: 10px;
       background-color: lightgray;
   }
+#identityv h2:hover,
+#identityv h3:hover,
+#identityv p:hover {
+    color: purple; /* Цвет текста при наведении */
+}
+#identityv a:hover {
+    color: blue;
+}
+

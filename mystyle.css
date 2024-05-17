@@ -32,21 +32,6 @@ h1 {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-footer {
-    text-align: center;
-    padding: 10px;
-    background-color: #f1f1f1;
-    margin-top: 20px;
-}
-
-footer p {
-    margin: 5px 0;
-}
-
-#gamegame {
-    text-align: center;
-}
-
 #alguskohtmängus {
     width: 600px;
     height: 300px;
