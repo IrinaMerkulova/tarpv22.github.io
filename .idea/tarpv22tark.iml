@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
+<<<<<<< HEAD
     <content url="file://$MODULE_DIR$">
 <<<<<<< HEAD
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
@@ -11,6 +12,9 @@
 >>>>>>> 0722ae7d63ec4b0c1da16d4ce941c277f49e3adf
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
     </content>
+=======
+    <content url="file://$MODULE_DIR$" />
+>>>>>>> Artur
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
