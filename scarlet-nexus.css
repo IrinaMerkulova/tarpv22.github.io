@@ -1,13 +1,31 @@
 #scarlet-nexus{
     background-color: #EEE2DE;
+    color: #EEE2DE;
+}
+#scarlet-nexus h2{
+    color: black;
 }
 #scarlet-nexus-name{
     font-family: cursive;
+    color: black;
 }
 #scarlet-nexus-info{
-    color: #2B2A4C;
+    background-color: #EA906C;
 }
-img{
+.snimage{
     width: 45%;
     height: 15%;
+}
+#scarlet-nexus-gameplay{
+    background-color: #B31312;
+}
+#scarlet-nexus-story{
+    background-color: #2B2A4C;
+}
+#scarlet-nexus-url{
+    background-color: #EA906C;
+    color: #EEE2DE;
+}
+#scarlet-nexus-kirjeldus{
+    background-color: #B31312;
 }
