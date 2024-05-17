@@ -17,3 +17,7 @@
             width: 600px;
             height: 300px;
         }
+
+        #mängust {
+            border-style: solid;
+        }
