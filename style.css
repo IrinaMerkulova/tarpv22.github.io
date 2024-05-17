@@ -51,7 +51,15 @@ a {
     color: #FFD700;
 }
 
+#yekasovSection a {
+    color: #FFD700;
+    text-decoration: none;
+}
 
+#yekasovSection a:hover {
+    color: #FFA500;
+    text-decoration: underline;
+}
 /*Yekasov end*/
 
 
