@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dd6fb7f-c57e-43e6-b119-1bf9424769b2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tlou.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/tlou.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tlou.html" beforeDir="false" afterPath="$PROJECT_DIR$/tlou.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715924635408</updated>
       <workItem from="1715924636787" duration="4883000" />
-      <workItem from="1715931318357" duration="2739000" />
+      <workItem from="1715931318357" duration="3428000" />
     </task>
     <servers />
   </component>
