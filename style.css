@@ -41,6 +41,13 @@
           background-color: #cdfff0;
           cursor: default;
       }
+      section ul a {
+          color: rgb(14, 28, 48);
+      }
+      section ul a:hover {
+          color: rgb(14, 28, 48);
+          text-decoration: underline;
+      }
       section button {
           display: block;
           margin: 20px auto;
