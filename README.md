@@ -1,4 +1,7 @@
 See leht on loodud TAR õpilastega ülesannete lahendamisks
+
+index.html EI TOHI uuendada-->kohe kaks tahvlisse!
+
 1. Klooni antud repositoorium - git clone
 2. Tee oma oksa - git branch
 3. Lahenda ülesanne (Mängu kirjeldus) - täienda html ja css faili
