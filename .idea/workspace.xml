@@ -4,7 +4,62 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dd6fb7f-c57e-43e6-b119-1bf9424769b2" name="Changes" comment="" />
+    <list default="true" id="3dd6fb7f-c57e-43e6-b119-1bf9424769b2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bohatyrov.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dayz_pildid/Dayz_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dayz_pildid/Dayz_title.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dayz_pildid/backpack_dayz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dayz_pildid/dayz_gameplay.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dayz_pildid/end_of_namalsk.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dayz_pildid/rolling_hills_dayz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MaxTsStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STALCRAFT.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TQ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TQ_Gameplay.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TQ_Greece.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artur.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dayz-gameplay.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dayz-story.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dayz-title-screen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dota.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dota2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dotalogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameplay.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameplayssss.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/giphy.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/history.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ident.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ident1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ident2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ident3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesArma3/gameplaypil2Arma3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesArma3/gameplaypilt1Arma3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesArma3/storypage1Arma3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesArma3/storypage2Arma3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesArma3/titleScreenArma3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexMISKEVYCH.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loredota.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lugu.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maxstyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mystyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/omastiil.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scarlet-nexus.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scarletnexus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scarletnexusmp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scarletnexusmp2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scarletnexusstory.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scarletnexusstory2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styleArma3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylemil.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/title_screen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/veronika.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +79,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AntonBuivol"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/IrinaMerkulova/tarpv22tark.git",
+    "accountId": "5b8d5432-7abf-45bb-9fb3-d95892bd84f1"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -41,6 +108,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "buivol",
     "last_opened_file_path": "C:/Users/opilane/Desktop/tarpv22tark",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
@@ -51,6 +119,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.17011.90" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,6 +136,7 @@
       <updated>1715924635408</updated>
       <workItem from="1715924636787" duration="4883000" />
       <workItem from="1715931318357" duration="4117000" />
+      <workItem from="1716493892896" duration="323000" />
     </task>
     <servers />
   </component>
