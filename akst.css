@@ -16,6 +16,8 @@
             height: 110vh;
             background-image: url("ArkadiKimages/background.jpg");
             background-color: #cccccc;
+            width: 100%;
+            height: 100%;
         }
         #AKNAME {
             color: rgb(228, 240, 255);
