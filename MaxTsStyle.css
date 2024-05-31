@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(255, 255, 233);
+    color: rgb(14, 28, 48);
+    font-family: sans-serif georgia;
+}
+
+a {
+    color: rgb(14, 28, 48);
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+#sec{
+    background-color: #f0f8ff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+#sec:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+#ul{
+    padding-left: 20px;
+}
+#li{
+    margin-bottom: 10px;
+    transition: color 0.3s ease, background-color 0.3s ease;
+    list-style-type: disc;
+    list-style-position: inside;
+}
+#li:hover {
+    color: #00eca4;
+    background-color: #cdfff0;
+    cursor: default;
+}
+#a{
+    color: rgb(14, 28, 48);
+}
+#a:hover {
+    color: rgb(14, 28, 48);
+    text-decoration: underline;
+}
