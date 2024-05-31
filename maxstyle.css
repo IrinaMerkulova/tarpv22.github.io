@@ -1,10 +1,4 @@
 
-    /* Дополнительные стили aaaaa*/
-
-
-#content {
-    padding: 20px;
-}
 
 #content {
     background-color: White;
@@ -13,3 +7,5 @@
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+
+
