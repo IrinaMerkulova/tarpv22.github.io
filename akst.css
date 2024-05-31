@@ -1,29 +1,8 @@
-      body {
-            background-color: rgb(255, 255, 233);
-            color: rgb(14, 28, 48);
-            font-family: sans-serif georgia;
-        }
-
-        a {
-            color: rgb(14, 28, 48);
-            text-decoration: none;
-        }
-
-        li {
-            list-style-type: none;
-        }
-        #ArkadiK {
-            height: 110vh;
+      #ArkadiK {
+            height: 100%;
             background-image: url("ArkadiKimages/background.jpg");
             background-color: #cccccc;
-        }
-        #AKNAME {
-            color: rgb(228, 240, 255);
-            font-size: xx-large;
-        }
-        #chatakbubble1 {
-
-
+            font-family: sans-serif georgia;
             font-family: "Britannic Bold";
             font-weight: bold;
             -webkit-text-stroke-width: 0.5px;
@@ -31,6 +10,11 @@
             color: #fdf101;
 
         }
+        #AKNAME {
+            color: rgb(228, 240, 255);
+            font-size: xx-large;
+        }
+
       #CBAKimage1 {
           width: 175px;
           height: 175px;
