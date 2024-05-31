@@ -30,21 +30,21 @@ li {
 #ul{
     padding-left: 20px;
 }
-#li{
+.MaksTsli{
     margin-bottom: 10px;
     transition: color 0.3s ease, background-color 0.3s ease;
     list-style-type: disc;
     list-style-position: inside;
 }
-#li:hover {
+.MaksTsli:hover {
     color: #00eca4;
     background-color: #cdfff0;
     cursor: default;
 }
-#a{
+.MaksTsa{
     color: rgb(14, 28, 48);
 }
-#a:hover {
+.MaksTsa:hover {
     color: rgb(14, 28, 48);
     text-decoration: underline;
 }
