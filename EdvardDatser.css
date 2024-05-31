@@ -1,0 +1,46 @@
+#section_EdvardD {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+}
+
+#h1_EdvardD {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+#ul_EdvardD {
+    list-style-type: none;
+    padding: 0;
+}
+
+#ul_EdvardD li {
+    margin-bottom: 20px;
+}
+
+.p_EdvardD {
+    line-height: 1.6;
+    color: #555;
+}
+
+.img_EdvardD {
+    display: block;
+    margin: 10px auto;
+    border: 1px solid #ccc;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+#a_EdvardD {
+	text-decoration: none;
+    color: dodgerblue;
+}
+
+#a_EdvardD:hover {
+	color: deepskyblue;
+    text-decoration: underline;}
