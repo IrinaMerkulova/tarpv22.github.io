@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dd6fb7f-c57e-43e6-b119-1bf9424769b2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/tlou.css" beforeDir="false" afterPath="$PROJECT_DIR$/tlou.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tlou.html" beforeDir="false" afterPath="$PROJECT_DIR$/tlou.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,8 +70,8 @@
       <option name="presentableId" value="Default" />
       <updated>1715924635408</updated>
       <workItem from="1715924636787" duration="4883000" />
-      <workItem from="1715931318357" duration="3428000" />
-      <workItem from="1717136318035" duration="295000" />
+      <workItem from="1715931318357" duration="4117000" />
+      <workItem from="1717136744887" duration="715000" />
     </task>
     <servers />
   </component>
