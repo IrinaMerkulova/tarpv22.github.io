@@ -44,10 +44,3 @@
 #a_EdvardD:hover {
 	color: deepskyblue;
     text-decoration: underline;}
-
-iframe {
-    display: block;
-    margin: 20px auto;
-    border: none;
-    border-radius: 8px;
-}
