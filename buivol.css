@@ -1,16 +1,16 @@
 #secBuivol{
     font-family:Arial;
-    background-color: black;
-    color: white;
-
+    background-color: whitesmoke;
+    color: black;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
 .civlink:hover{
-    color: blue;
+    color: darkblue;
 }
 
 .civlink{
-    color: aquamarine;
+    color: blue;
 }
 .liCiv{
     width: 1000px;
