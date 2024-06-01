@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dd6fb7f-c57e-43e6-b119-1bf9424769b2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,18 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AntonBuivol"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AntonBuivol&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/IrinaMerkulova/tarpv22tark.git",
-    "accountId": "5b8d5432-7abf-45bb-9fb3-d95892bd84f1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/IrinaMerkulova/tarpv22tark.git&quot;,
+    &quot;accountId&quot;: &quot;5b8d5432-7abf-45bb-9fb3-d95892bd84f1&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -56,7 +56,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "buivol",
-    "last_opened_file_path": "C:/Users/opilane/Desktop/tarpv22tark",
+    "last_opened_file_path": "C:/Users/anton/Downloads/tarpv22tark-buivol",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -83,7 +83,9 @@
       <updated>1715924635408</updated>
       <workItem from="1715924636787" duration="4883000" />
       <workItem from="1715931318357" duration="4117000" />
-      <workItem from="1716493892896" duration="1115000" />
+      <workItem from="1716493892896" duration="3184000" />
+      <workItem from="1717215982065" duration="22000" />
+      <workItem from="1717216005737" duration="734000" />
     </task>
     <servers />
   </component>
