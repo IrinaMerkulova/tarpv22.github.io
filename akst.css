@@ -1,0 +1,30 @@
+      #ArkadiK {
+            height: 100%;
+            background-image: url("ArkadiKimages/background.jpg");
+            background-color: #cccccc;
+            font-family: sans-serif georgia;
+            font-family: "Britannic Bold";
+            font-weight: bold;
+            -webkit-text-stroke-width: 0.5px;
+            -webkit-text-stroke-color: #fc8101;
+            color: #fdf101;
+
+        }
+        #AKNAME {
+            color: rgb(228, 240, 255);
+            font-size: xx-large;
+        }
+
+      #CBAKimage1 {
+          width: 175px;
+          height: 175px;
+      }
+      #CBAKimage2 {
+
+          height: 200px;
+      }
+      #CBAKimage3, #CBAKimage5, #CBAKimage4 {
+          width: 65px;
+      }
+      
+
