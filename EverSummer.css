@@ -1,0 +1,105 @@
+/* EverSummer.css */
+
+#Kulakovski {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 800px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#Kulakovski h2, #Kulakovski h3 {
+    text-align: center;
+    color: #2e3d49;
+    margin: 20px 0;
+}
+
+#Kulakovski h2 {
+    font-size: 2.5em;
+    margin-top: 30px;
+}
+
+#Kulakovski h3 {
+    font-size: 1.8em;
+    margin-top: 40px;
+}
+
+#Kulakovski p {
+    line-height: 1.6;
+    margin: 10px 20px;
+}
+
+#Kulakovski strong {
+    color: #2e3d49;
+}
+
+#ESummer {
+    background-color: #1a75bc;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#ESPlatvorm, #ESpRelease, #ESName {
+    background-color: #ebf5ff;
+    border-left: 5px solid #1a75bc;
+    padding: 10px;
+    margin: 10px 20px;
+    border-radius: 5px;
+}
+
+#ESpIntro {
+    background-color: #fef4e8;
+    border-left: 5px solid #f39c12;
+    padding: 10px;
+    margin: 10px 20px;
+    border-radius: 5px;
+}
+
+#Kulakovski img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+    max-width: 100%;
+}
+
+#ESulLinks {
+    list-style-type: none;
+    padding: 0;
+}
+
+#ESulLinks li {
+    background-color: #ebf5ff;
+    margin: 10px 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#ESulLinks a {
+    text-decoration: none;
+    color: #1a75bc;
+    font-weight: bold;
+}
+
+#ESulLinks a:hover {
+    color: #2e3d49;
+}
+
+#ESpReview {
+    background-color: #f0f0f0;
+    border-left: 5px solid #95a5a6;
+    padding: 10px;
+    margin: 10px 20px;
+    border-radius: 5px;
+}
+
+#ESframeVideo {
+    display: block;
+    margin: 20px auto;
+    border: none;
+    border-radius: 10px;
+    max-width: 100%;
+}
